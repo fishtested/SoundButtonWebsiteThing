@@ -1,5 +1,5 @@
 # SoundButtonWebsiteThing
-A simple collection of buttons that play sounds on click, for fun or suspense.
+A simple collection of buttons that play sounds on click, for fun or suspense. This is similar to, and inspired by Discord's Soundboard feature.
 
 ## Buttons
 There are currently three sounds, a dramatic, three-chord sound, a cat and a duck. I may add more in the future.
